@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chalamandradecox.com/sitemap.xml
