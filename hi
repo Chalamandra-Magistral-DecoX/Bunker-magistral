@@ -1,0 +1,4 @@
+#!/bin/bash
+# Ruta absoluta para evitar errores de directorio
+source /home/chalamandramagistral/microcosmos_elite/venv/bin/activate
+python3 /home/chalamandramagistral/microcosmos_elite/scripts/grover_poas.py

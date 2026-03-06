@@ -1,0 +1,7 @@
+FROM python:3.11-slim
+
+RUN pip install --no-cache-dir qiskit==1.2.0 qiskit-aer==0.15.1 numpy
+
+WORKDIR /src
+
+CMD ["python3"]

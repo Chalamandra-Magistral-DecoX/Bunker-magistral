@@ -1,0 +1,8 @@
+==========================================================
+        BÚNKER SOBERANO V5 - GUÍA DE DESPLIEGUE
+==========================================================
+1. Ejecuta: bash install.sh
+2. Edita el archivo '.env' con tus propias llaves (Telegram/Supabase).
+3. Lanza el nodo: python3 node_agent.py
+4. ¡Tu Búnker está en línea!
+==========================================================
