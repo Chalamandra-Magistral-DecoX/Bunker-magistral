@@ -1,1 +1,0 @@
-/home/chalamandramagistral/microcosmos_elite/consultor.js
